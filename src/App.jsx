@@ -1,17 +1,3 @@
-// import React from 'react'
-// import Hooks from './compontnts/hooks'
-
-// const App = () => {
-// 	return (
-// 		<div>
-// 			<h1>HOOKS</h1>
-// 			<Hooks />
-// 		</div>
-// 	)
-// }
-
-// export default App
-
 import React, { useActionState, useState, useSyncExternalStore } from 'react'
 import Hooks from './compontnts/hooks'
 
