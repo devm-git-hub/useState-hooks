@@ -2,7 +2,7 @@ import React, { useActionState, useState, useSyncExternalStore } from 'react'
 import Hooks from './compontnts/hooks'
 
 const App = () => {
-  // let name = 'Dev Mandal';
+  
   const [name, setName] = useState('Dev Mandal')
 
 
